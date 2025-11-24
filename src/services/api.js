@@ -1,6 +1,6 @@
 const fetchScrapedJobs = async () => {
     try {
-        const response = await fetch('./scraped_jobs.json');
+        const response = await fetch('/careerupdatesdaily/scraped_jobs.json');
         if (!response.ok) {
             return [];
         }
