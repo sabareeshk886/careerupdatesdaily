@@ -1,0 +1,1463 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-55c0b4014f97d882,indeed,https://www.indeed.com/viewjob?jk=55c0b4014f97d882,https://jobs.ashbyhq.com/tavily/96bb9b9f-eb4e-4cc1-a187-0fcd8e020b57?utm_source=ydjwxZeVod,Software & Web Automation Engineer,Tavily,"San Francisco, CA, US",18-09-2025,fulltime,,,,,,FALSE,,,,,"**Software \\& Web Automation Engineer**
+=======================================
+
+**About Tavily**
+----------------
+
+
+Tavily is building the search engine for AI agents. We believe the future of work will be led by AI agents, and that requires restructuring how the web is accessed. Our Search API provides web access for AI agents, enabling real\\-time internet search optimized for LLMs and Retrieval\\-Augmented Generation (RAG).
+
+
+We are backed by leading investors and serve developers and enterprises worldwide. Our team is small, fast\\-moving, and ambitious — we ship quickly, iterate constantly, and care deeply about impact.
+
+**What You’ll Do**
+------------------
+
+
+Be the expert in designing and scaling Tavily’s core web intelligence systems. You’ll:
+
+* Design and operate distributed, high\\-throughput data acquisition pipelines that power Tavily’s products.
+* Build and maintain backend services (Node.js / Python) and automation frameworks.
+* Implement intelligent orchestration and browser fingerprinting / identity simulation techniques so automation behaves adaptively and human\\-like in dynamic environments.
+* Drive reliability, performance, observability, and incident response across production systems.
+* Partner with product/AI teams to wire data workflows into downstream applications and developer experiences.
+
+**What We’re Looking For**
+--------------------------
+
+* 2–5 years of professional software engineering experience.
+* Comfortable in a fast\\-paced startup environment with high ownership.
+* Solid backend fundamentals in Node.js, Python (FastAPI), SQL, MongoDB (or similar).
+* Hands\\-on experience with automation/orchestration tools (e.g., Playwright, Puppeteer, Cheerio) and concurrency at scale.
+* Working knowledge of browser internals, fingerprinting/identity profiles, and resilient, human\\-like automation patterns.
+* Strong coding practices: testing, code review, secure\\-by\\-default design, and production\\-first mindset.
+
+**Nice\\-to\\-Haves**
+-------------------
+
+* Familiarity with cloud infra, containerization (Docker), Kubernetes, CI/CD.
+* Experience integrating AI/ML components or retrieval systems into production pipelines.",,https://www.indeed.com/cmp/Tavily,,,,,,,,,,,,
+in-000005ef481741af,indeed,https://www.indeed.com/viewjob?jk=000005ef481741af,https://click.appcast.io/t/I51FWf5qXqc3i5o9r8UE_2Rpoi46rSVRvey3btCbDXk=,Software Engineer III,Sam's Club,"Sunnyvale, CA, US",18-09-2025,,direct_data,yearly,117000,234000,USD,TRUE,,,,,"**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+
+As part of Sam's Eligibility and Post Enrichment team, you would be contributing to WCP migration and GEN AI initiatives for Digital merch org.
+
+
+As a Software Engineer III at Sam Club, you'll play a pivotal role in designing and building robust back end systems that power seamless digital experiences for millions of customers. You will work across multiple domains, contributing to the development of scalable services that are critical to Sams digital platforms.
+
+
+Please note\\- “Immigration sponsorship is not available in this role”  
+
+
+
+  
+
+**What you'll do:**
+
+* Work on small to large\\-sized complex projects and help to build new features and/or capabilities
+* Implement highly scalable micro services with low latency and high throughput
+* Support the implementation of solutions for business use cases.
+* Follow the engineering best practices and deliver ""open source"" like quality code
+* Comply with company policies and procedures and support company mission, values, and standards of ethics and integrity
+* Use your debugging and troubleshooting skills to determine the root causes of issues and resolve them
+* Possess excellent communication skills to be able to communicate with peers and stakeholders
+* Enjoy spending your day writing \\& reviewing code and also participate in design discussion
+
+ **What you'll bring:**
+
+* Bachelor's Degree in Computer Science or related field and 4 years of experience in software engineering or Master's Degree in Computer Science or related field and 2 years of experience in software engineering
+* A visionary engineer or technologist with a passion for learning new technologies, programming wizardry, and translating them into working software
+* Experience with software design, development, and automated testing
+* An understanding of requirements analysis, design, coding, and unit testing of scalable, distributed, fault\\-tolerant applications
+* Familiar with agile or other rapid application development
+* Experience with design and programming across one or more platforms, languages and frameworks (Java / Python, Spring, Springboot, Microservice), data structure fundamentals and relational / NoSQL databases, Cloud Computing, Linux system and networks
+* Computer Science fundamentals in object\\-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+* Analytical and problem\\-solving skills. Critical thinking and being able to think ""outside the box""
+* An awesome programmer with high levels of creativity and quick solving capabilities to change the world in a huge way!
+* Well verse in CI/CD
+* Knowledge of professional software engineering practices \\& best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+* Ability to work in a results\\-oriented, rapidly changing, dynamic and fast\\-paced environment that requires collaboration across multiple stakeholders and constituents
+* A passion for all things Web, including but not limited to, managing applications in the cloud, building and maintaining RESTful APIs, database design, development and maintenance, performance, analytics and monitoring
+* Experience building real\\-time data pipelines using Kafka
+* Experience in GCP, Azure, Cassandra Big Data is a plus
+
+ **About Walmart General/Not Function Specific**  
+
+Sam Walton opened the first Sam's Club in 1983 to meet a growing need among customers who wanted to buy merchandise in bulk. Since then, Sam's Club has grown rapidly, opening more than 600 clubs in the U.S. and 100 clubs internationally. By offering affordable, wholesale merchandise to members, Sam's Club helps make saving simple for families and small business owners. Sam's Club employs about 110,000 associates in the U.S. The average club is 134,000 square feet and offers bulk groceries and general merchandise. Most clubs also have specialty services, such as a pharmacy, an optical department, a photo center, or a tire and battery center.
+
+
+Future Ways of Working:  
+
+Our company's success can be attributed to our employees. While technology has allowed us to be effective while working remotely, there is no substitute for being in the office together; it helps to shape our culture, collaborate, innovate, build relationships, and move more quickly. We strive to provide flexibility in order to promote a healthy work\\-life balance but recognize that in\\-person interactions are important to our culture and shared success. We'll meet in person on a regular and purposeful basis.
+
+ **Benefits:**  
+
+Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.  
+
+  
+
+**Equal Opportunity Employer:**  
+
+Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.  
+
+  
+
+*The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.*
+
+  
+
+
+At Sam's Club, we offer competitive pay as well as performance\\-based bonus awards and other great benefits for a happier mind, body, and wallet!
+‎
+
+* Health benefits include medical, vision and dental coverage
+
+
+‎
+
+* Financial benefits include 401(k), stock purchase and company\\-paid life insurance
+
+
+‎
+
+* Paid time off benefits include PTO, parental leave, family care leave, bereavement, jury duty, and voting. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+
+
+‎
+
+
+For information about PTO, see https://one.walmart.com/notices.
+
+
+‎
+
+* Other benefits include short\\-term and long\\-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+
+
+‎
+
+
+Live Better U is a company paid education benefit program for full\\-time and part\\-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short\\-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+‎
+
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+‎
+
+
+For information about benefits and eligibility, see One.Walmart.
+
+
+‎
+
+
+The annual salary range for this position is $117,000\\.00\\-$234,000\\.00
+‎
+
+
+Additional compensation includes annual or quarterly performance bonuses.
+‎
+
+
+‎
+
+
+‎
+
+
+‎
+
+
+‎
+
+**Minimum Qualifications...**
+-----------------------------
+
+*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+
+Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.  
+
+Option 2: 4 years’ experience in software engineering or related area.**Preferred Qualifications...**
+-------------------------------
+
+*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+
+
+Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2\\.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
+Masters: Computer Science**Primary Location...**
+-----------------------
+
+
+1395 Crossman Ave, Sunnyvale, CA 94089\\-1114, United States of America
+Walmart and its subsidiaries are committed to maintaining a drug\\-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",Retail,https://www.indeed.com/cmp/Sam's-Club,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1c99fbcab972f5c780486df06135ed4b,http://corporate.samsclub.com,"Sam’s Club Home Office
+2101 SE Simple Savings Dr. 
+Bentonville, AR 72716-8048",201 to 500,more than $10B (USD),,,,,,,
+in-e8ddc19ad27af944,indeed,https://www.indeed.com/viewjob?jk=e8ddc19ad27af944,https://click.appcast.io/t/YhLGg94cwluAmK6Fhwk9Npduez1ztu0lNtqgGAFTAms=,"(USA) Senior, Software Engineer",Sam's Club,"Sunnyvale, CA, US",18-09-2025,,direct_data,yearly,117000,234000,USD,FALSE,,,,,"**Position Summary...**
+-----------------------
+
+
+As a Senior Software Engineer, you will be part of Sam's Eligibility \\& Post Enrichment team contributing to various catalog and gen AI initiatives for Digital Merch Org  
+
+  
+
+Please note\\- “Immigration sponsorship is not available in this role”**What you'll do...**
+---------------------
+
+* Architect, design, and develop scalable backend services and APIs to support complex digital experiences.
+* Collaborate with cross\\-functional teams across domains, including product, frontend, data, and UX teams, to design solutions that enhance the customer journey.
+* Lead technical initiatives, including solution architecture, performance tuning, and system scalability enhancements.
+* Optimize application performance and ensure high code quality
+* Mentor junior engineers and drive knowledge sharing within the team.
+* Advocate for best practices in services architecture, security, and testing
+* Implement and maintain secure, high\\-performance, and fault\\-tolerant distributed systems.
+* Develop reusable frameworks and components for backend service integrations
+* Maintain high code quality through automated testing, continuous integration, and code reviews.
+* Troubleshoot and resolve production issues across complex services.
+* Build scalable and reliable systems that handle large volumes of traffic and data
+* Write clean, efficient, and maintainable code while following engineering best practices.
+* Debug and troubleshoot issues in distributed systems across environments.
+* Contribute to performance optimization, security improvements, and system resilience.
+* Participate in code reviews and provide constructive feedback to peers.
+* Leads the discovery phase of medium to large projects to come up with high level design by partnering with the product management, project  
+
+management, business and user experience teams; and obtaining cross\\-function approvals.
+* Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by  
+
+incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others  
+
+with how to apply these in executing business processes and practices.
+**What****you’ll****bring****:**
+
+* .Hands on development on building n\\-tier applications using RESTful Services, Java/J2EE, JavaScript, Python, NoSql.
+* Working knowledge of one or more cloud technologies such as AZURE, GCP, OpenStack
+* Work with a team of highly skilled developers and testing professionals to deliver high quality test automation and products.
+* Experience in internet\\-scale distributed technologies (e.g. Solr, Kafka, Mem Cache, etc.)
+* Relevant experience with relational and no\\-sql databases (e.g. MySQL, Oracle, Cassandra, etc.)
+* Advanced knowledge of complex software design, distributed system design, design patterns, data structures and algorithms.
+* Analyze test results, triage tickets, and work closely with team members to debug and reproduce reported issues.
+* Focus on automation first, with a goal of 100% automated test cases consisting of fast, reliable, API\\-level tests that can be incorporated into a Continuous Integration environment.
+* Experience and exposure working in a 24/7 operations support environment.
+* Advocate for testability and quality throughout the entire feature development cycle
+* Experience with distributed version control like Git or similar
+* Familiarity with continuous integration/deployment processes and tools such as Jenkins and Maven.
+* Strong experience interfacing with Web Services platforms
+* Strong expertise in development of scalable cloud native microservices
+* Strong expertise in designing and building APIs
+* Strong expertise with Cloud Technologies like Azure and/or GCP
+* Strong Expertise in Java, Scala, Object Oriented \\& Functional Programming, Design Patterns
+* Experience in all areas of engineering including DevOps, Chaos Engineering, SRE, and on\\-call rotations to assure service availability and operational excellence.
+
+At Sam's Club, we offer competitive pay as well as performance\\-based bonus awards and other great benefits for a happier mind, body, and wallet!
+‎
+
+* Health benefits include medical, vision and dental coverage
+
+
+‎
+
+* Financial benefits include 401(k), stock purchase and company\\-paid life insurance
+
+
+‎
+
+* Paid time off benefits include PTO, parental leave, family care leave, bereavement, jury duty, and voting. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+
+
+‎
+
+
+For information about PTO, see https://one.walmart.com/notices.
+
+
+‎
+
+* Other benefits include short\\-term and long\\-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+
+
+‎
+
+
+Live Better U is a company paid education benefit program for full\\-time and part\\-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short\\-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+‎
+
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+‎
+
+
+For information about benefits and eligibility, see One.Walmart.
+
+
+‎
+
+
+The annual salary range for this position is $117,000\\.00\\-$234,000\\.00
+‎
+
+
+Additional compensation includes annual or quarterly performance bonuses.
+‎
+
+
+‎
+
+
+‎
+
+
+‎
+
+
+‎
+
+**Minimum Qualifications...**
+-----------------------------
+
+*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+
+Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.  
+
+Option 2: 5 years’ experience in software engineering or related area.**Preferred Qualifications...**
+-------------------------------
+
+*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+
+
+Master’s degree in Computer Science or related field and 2 years' experience in software engineering or related field**Primary Location...**
+-----------------------
+
+
+1395 Crossman Ave, Sunnyvale, CA 94089\\-1114, United States of America
+Walmart and its subsidiaries are committed to maintaining a drug\\-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",Retail,https://www.indeed.com/cmp/Sam's-Club,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1c99fbcab972f5c780486df06135ed4b,http://corporate.samsclub.com,"Sam’s Club Home Office
+2101 SE Simple Savings Dr. 
+Bentonville, AR 72716-8048",201 to 500,more than $10B (USD),,,,,,,
+in-0a01564e0884b5f6,indeed,https://www.indeed.com/viewjob?jk=0a01564e0884b5f6,https://careers.google.com/jobs/results/137902523070456518-staff-software-engineer/,"Staff Software Engineer, Cloud SQL",Google,"Sunnyvale, CA, US",18-09-2025,fulltime,direct_data,yearly,197000,291000,USD,FALSE,,,,,"### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development.
+* 5 years of experience testing, and launching software products.
+* 5 years of experience building and developing large\\-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.
+* Experience with relational databases and building cloud database services.
+* Experience with AI/ML technologies or infrastructure.
+
+  
+
+### **Preferred qualifications:**
+
+* Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+* 8 years of experience with data structures/algorithms.
+* 3 years of experience in a technical leadership role leading project teams and setting technical direction.
+* 3 years of experience working in a complex, matrixed organization involving cross\\-functional, or cross\\-business projects.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+Cloud SQL is a fully\\-managed relational database service on Google Cloud Platform (GCP) that simplifies database management and administration. It allows customers to run MySQL, PostgreSQL, and SQL Server databases without the need to manage the underlying infrastructure.
+
+
+In this role, you will build sustainable systems, tools, infrastructure, and best practices to improve quality, simplicity, testability and data integrity. You will be at the forefront of innovation, including building services that empower Generative AI capabilities for Google Cloud Databases.
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full\\-time position is $197,000\\-$291,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Own and drive the design, implementation, quality and rollout of key features that provide new managed databases experiences for the customers.
+* Collaborate with engineering managers, technical leads, and product managers across various teams in Cloud SQL, and relevant teams in Google at large to ensure alignment on direction, plans and execution.
+* Develop long\\-term strategy and roadmap by collaborating with CloudSQL engineering and stakeholders.
+* Ship Infrastructure and tools to improve developer productivity, release velocity and quality of the CloudSQL Database.
+* Participate in driving GenAI and LLM technologies to accelerate the optimization of CloudSQL infrastructure and product offerings.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-884b44e28f07adc4,indeed,https://www.indeed.com/viewjob?jk=884b44e28f07adc4,https://careers.google.com/jobs/results/130301324309734086-senior-software-engineer-iii/,"Senior Software Engineer III, AI/ML, Visual Lanes",Google,"Mountain View, CA, US",18-09-2025,fulltime,direct_data,yearly,166000,244000,USD,FALSE,,,,,"### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience with software development in one or more programming languages.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience with one or more of the following AI/ML techniques: Generative AI, Computer Vision, Natural Language Processing (NLP), information retrieval, or specialization in another ML field.
+* 3 years of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical field.
+* 5 years of experience with data structures/algorithms.
+* 1 year of experience in a technical leadership role.
+* Experience in computational geometry.
+* Experience developing accessible technologies.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+In this role at Geo, build next\\-generation navigation maps by integrating advanced road, lane, and geometry data to deliver richer lane details. You will apply full\\-stack expertise with Generative AI, ML, and geometric algorithms to enhance mapmaking, develop scalable models, and deliver practical global solutions.
+
+
+The Geo team is focused on building the most accurate, comprehensive, and useful maps for our users, through products like Maps, Earth, Street View, Google Maps Platform, and more. Every month, more than a billion people rely on Maps services to explore the world and navigate their daily lives.  
+
+  
+
+The Geo team also enables developers to use the power of Google Maps platforms to enhance their apps and websites. As they plot a course for the future of mapping, they are solving complex computer science problems, designing beautiful and intuitive product experiences, and improving our understanding of the real world.  
+
+The US base salary range for this full\\-time position is $166,000\\-$244,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.**Responsibilities**
+--------------------
+
+* Write and test product or system development code.
+* Collaborate with peers and stakeholders through design and code reviews to ensure best practices amongst available technologies (e.g., style guidelines, accuracy, testability, and efficiency,)
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+* Design and implement solutions in one or more specialized ML areas, leverage ML infrastructure, and demonstrate expertise in a chosen field.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-5968d2c39ea08316,indeed,https://www.indeed.com/viewjob?jk=5968d2c39ea08316,https://jobs.bstonetalent.com/jb/Senior-Oracle-EPM-Developer-Jobs-in-Oakland-CA/12742506,Senior Oracle EPM Developer,Blackstone Technology Group,"Oakland, CA, US",18-09-2025,contract,direct_data,hourly,70,75,USD,TRUE,,,,,"**Oakland****,** **CA****94622**Posted: 09/18/2025
+Employment Type: 3\\-6 Month Contract
+Job Category: Developer/Engineer
+Job Number: 27592
+Pay Range: $70/hr \\- $75/hr
+Workplace Type: Remote
+Job Description
+Blackstone Talent Group, an award\\-winning technology consulting and talent agency is seeking a Senior Oracle EPM Developer to join our Client's team. **Job Details**
+
+
+We are seeking an experienced **Oracle ARCS Consultant** with strong expertise in **Oracle EPM Cloud solutions** to join our team. The ideal candidate will be responsible for the implementation, configuration, and support of Oracle Account Reconciliation Cloud Service (ARCS) as well as contributing to broader Oracle EPM initiatives (such as FCCS, EPBCS, or EDMCS). This role requires both functional and technical knowledge to bridge finance and technology, ensuring streamlined reconciliation processes and effective enterprise performance management.
+
+
+Primary duties include
+
+
+* Lead or support the **end\\-to\\-end implementation** of Oracle ARCS, including requirement gathering, configuration, testing, deployment, and support.
+* Analyze reconciliation processes and automate high\\-volume matching scenarios.
+* Customize ARCS to meet business reconciliation and compliance needs, including **transaction matching**, **automation rules, formats, profiles, and templates**.
+* Integrate ARCS with **source systems** (e.g., ERP, GL, subledgers) and EPM modules using **Data Management or Data Integration tools**.
+* Collaborate with stakeholders (Finance, Accounting, IT) to design and implement **process improvements** and best practices using ARCS and other Oracle EPM applications.
+* Provide expertise and support for related Oracle EPM modules (e.g., **FCCS**, **EPBCS**, **Narrative Reporting**, etc.).
+* Develop and maintain technical and functional documentation, including training materials.
+* Conduct **user training sessions** and support UAT and production rollouts.
+
+
+9\\. Stay current with Oracle Cloud updates, patches, and new features to assess impacts and improvements
+
+  
+
+
+
+Key success factors for a potential candidate (in addition to required skills)
+
+* Self\\-starter
+* Proactive; ‘can do’ problem solving attitude; Navigate through ambiguity
+* Superior communication skills – Written \\& Verbal
+* Ability to influence and align cross\\-functional teams
+
+  
+
+
+
+**Qualifications**:
+
+**Required:**
+
+* **5\\+ years** of hands\\-on experience with **Oracle ARCS**, including **Transaction Matching,** implementation and support.
+* Proven experience with **Oracle EPM Cloud** solutions, including **at least one** of the following: FCCS, EPBCS, EDMCS, or Narrative Reporting.
+* Strong understanding of **financial close, account reconciliation, and reporting processes**.
+* Experience with **ARCS automation** (e.g., transaction matching, rules, profiles).
+* Familiarity with **data integration tools** (Data Management, FDMEE, or third\\-party ETL tools).
+* Excellent analytical, problem\\-solving, and communication skills.
+* Ability to work independently or as part of a global team.
+
+**Preferred:**
+
+* Oracle Cloud certification in ARCS and/or EPM Cloud modules.
+* Experience with scripting (e.g., Groovy, SQL) for EPM automation.
+* Knowledge of ERP systems (e.g., Oracle ERP Cloud, Peoplesoft, SAP).
+
+ **Security Clearance Required: N/A**  
+
+  
+
+Blackstone Talent Group is a wholly owned subsidiary of Blackstone Technology Group, a global IT services and software firm that implements technological solutions across commercial industry verticals and the US Federal Government. Blackstone's global talent augmentation practice was founded in 1998\\. Blackstone Talent Group has offices in San Francisco, Denver, Houston, Colorado Springs, and Washington, DC. We specialize in providing clients the best talent across a variety of industries and sectors.  
+
+  
+
+**EOE of Minorities/Females/Veterans/Disabilities**",,https://www.indeed.com/cmp/Blackstone-Technology-Group,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d5a965e77bd6e758e44b677babe127ed,https://www.bstonetech.com,"San Francisco, CA",201 to 500,$25M to $100M (USD),"Blackstone Technology Group is a privately-held, global IT services, solutions and staff augmentation firm founded in 1998.",,,,,,
+in-3a3e43ddf97955b9,indeed,https://www.indeed.com/viewjob?jk=3a3e43ddf97955b9,https://jobs.us.pwc.com/job/-/-/932/86254376016,Azure .Net Developer - Manager,PwC,"Silicon Valley, CA, US",17-09-2025,,direct_data,yearly,99000,232000,USD,FALSE,,,,,"At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.  
+
+Enhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.
+
+
+Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+
+* Analyse and identify the linkages and interactions between the component parts of an entire system.
+* Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.
+* Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.
+* Develop skills outside your comfort zone, and encourage others to do the same.
+* Effectively mentor others.
+* Use the review of work as an opportunity to deepen the expertise of team members.
+* Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+  
+
+As part of the Software and Product Innovation team you create software solutions using technologies such as ASP, .NET, SQL Server, HTML, CSS, Java, and C\\#. As a Manager you lead teams and manage client accounts, focusing on strategic planning and mentoring junior staff. You are accountable for project success and maintaining elevated standards, while embracing technology and innovation to enhance delivery and encourage others to do the same.
+
+
+Responsibilities
+
+* Lead the development of software solutions using diverse technologies
+* Manage and guide teams to achieve project objectives
+* Strategize and plan for successful client account management
+* Mentor junior staff to enhance their technical and professional skills
+* Uphold exemplary standards in project delivery and client service
+* Promote the integration of innovative technologies in software development
+* Foster a culture of continuous improvement and collaboration
+* Take responsibility for project success and client satisfaction
+
+
+What You Must Have
+
+* Bachelor's Degree
+* 5 years of relevant experience in .NET development and at least 3 years of SQL
+* Bachelor's degree or in lieu of a degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college
+
+
+What Sets You Apart
+
+* Master's Degree in Computer and Information Science, Management Information Systems, or Computer Engineering preferred
+* Demonstrating experience with front\\-end web development frameworks
+* Understanding of Object\\-Oriented Programming principles
+* Being skilled in Microsoft Application Lifecycle Management
+* Exhibiting proficiency in .NET MVC and Entity Framework
+* Using Git for source control
+* Possessing experience in Agile process and scrum meetings
+* Leading across onshore and offshore teams
+
+  
+
+
+Learn more about how we work: https://pwc.to/how\\-we\\-work  
+
+  
+
+PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.  
+
+  
+
+As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.  
+
+  
+
+For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.  
+
+  
+
+Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines  
+
+  
+
+The salary range for this position is: $99,000 \\- $232,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance  
+
+  
+
+\\#LI\\-Hybrid",,https://www.indeed.com/cmp/Pwc,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/34c600d7a3b131a4c2cc1bbcde2229ab,https://www.pwc.com,"New York, NY","1,001 to 5,000",$100M to $500M (USD),"At PwC, we combine people and technology to tackle the world's biggest challenges. Join us to help clients navigate change through audit, tax, and consulting, powered by tech-driven solutions.",,,,,,
+in-fa41e5efd0f20b0e,indeed,https://www.indeed.com/viewjob?jk=fa41e5efd0f20b0e,https://jobs.us.pwc.com/job/-/-/932/86254376016,Azure .Net Developer - Manager,PwC,"San Francisco, CA, US",17-09-2025,,direct_data,yearly,99000,232000,USD,FALSE,,,,,"At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.  
+
+Enhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.
+
+
+Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+
+* Analyse and identify the linkages and interactions between the component parts of an entire system.
+* Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.
+* Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.
+* Develop skills outside your comfort zone, and encourage others to do the same.
+* Effectively mentor others.
+* Use the review of work as an opportunity to deepen the expertise of team members.
+* Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+  
+
+As part of the Software and Product Innovation team you create software solutions using technologies such as ASP, .NET, SQL Server, HTML, CSS, Java, and C\\#. As a Manager you lead teams and manage client accounts, focusing on strategic planning and mentoring junior staff. You are accountable for project success and maintaining elevated standards, while embracing technology and innovation to enhance delivery and encourage others to do the same.
+
+
+Responsibilities
+
+* Lead the development of software solutions using diverse technologies
+* Manage and guide teams to achieve project objectives
+* Strategize and plan for successful client account management
+* Mentor junior staff to enhance their technical and professional skills
+* Uphold exemplary standards in project delivery and client service
+* Promote the integration of innovative technologies in software development
+* Foster a culture of continuous improvement and collaboration
+* Take responsibility for project success and client satisfaction
+
+
+What You Must Have
+
+* Bachelor's Degree
+* 5 years of relevant experience in .NET development and at least 3 years of SQL
+* Bachelor's degree or in lieu of a degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college
+
+
+What Sets You Apart
+
+* Master's Degree in Computer and Information Science, Management Information Systems, or Computer Engineering preferred
+* Demonstrating experience with front\\-end web development frameworks
+* Understanding of Object\\-Oriented Programming principles
+* Being skilled in Microsoft Application Lifecycle Management
+* Exhibiting proficiency in .NET MVC and Entity Framework
+* Using Git for source control
+* Possessing experience in Agile process and scrum meetings
+* Leading across onshore and offshore teams
+
+  
+
+
+Learn more about how we work: https://pwc.to/how\\-we\\-work  
+
+  
+
+PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.  
+
+  
+
+As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.  
+
+  
+
+For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.  
+
+  
+
+Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines  
+
+  
+
+The salary range for this position is: $99,000 \\- $232,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance  
+
+  
+
+\\#LI\\-Hybrid",,https://www.indeed.com/cmp/Pwc,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/34c600d7a3b131a4c2cc1bbcde2229ab,https://www.pwc.com,"New York, NY","1,001 to 5,000",$100M to $500M (USD),"At PwC, we combine people and technology to tackle the world's biggest challenges. Join us to help clients navigate change through audit, tax, and consulting, powered by tech-driven solutions.",,,,,,
+in-13d177e559e4b538,indeed,https://www.indeed.com/viewjob?jk=13d177e559e4b538,https://click.appcast.io/t/8QAkMcFE2Fn85dazrWCfmThhWOd7NqEIXnNnlWcevVQ=,"Senior Systems Software Engineer, AV Infrastructure - Validation and Distributed Systems",NVIDIA,"Santa Clara, CA, US",17-09-2025,fulltime,direct_data,yearly,148000,287500,USD,FALSE,,,,,"NVIDIA has become the platform upon which every new AI\\-powered application is built. From healthcare research applications to autonomous vehicles, or voice\\-recognition systems, the need for advanced perception and cognitive capabilities is exploding, and NVIDIA is right in the center of this revolution. We are seeking a motivated Senior Systems Software Engineer to join our Autonomous Vehicle Infrastructure organization, focusing on building, deploying, and operating validation platforms at scale. In this role, you will work with internal teams and external partners to integrate distributed systems, manage large\\-scale data pipelines, and operationalize next\\-generation validation workflows for autonomous driving.
+
+
+This role offers a chance to start from the ground up: standing up new vendor\\-provided platforms, validating integration paths, and ensuring infrastructure is reliable, secure, and production\\-ready. You will combine hands\\-on engineering, infrastructure deployment, and workflow automation to help scale our AV validation ecosystem.
+
+**What You’ll Be Doing:**
+
+* Deploy and operationalize vendor\\-provided platforms in our cloud\\-based service platform, starting with test environments to validate dependencies, workflows, and performance.
+* Build and maintain distributed infrastructure that supports large\\-scale log ingestion, data processing, and scenario validation at scale.
+* Automate workflows and pipelines using Go, Python, Bash, and Bazel to ensure reproducibility, efficiency, and reliable distributed execution.
+* Integrate simulation and drive logs (e.g. world model data, road geometries) in various formats (e.g. protobuf, parquet) with validation platforms, ensuring seamless end\\-to\\-end coverage analysis.
+* Provide visualization and reporting capabilities to surface validation results, coverage metrics, and actionable insights for developers and stakeholders.
+* Define and manage access controls, monitoring, and security policies to ensure compliance while enabling smooth collaboration across internal and vendor teams.
+* Partner closely with internal teams and external vendors to troubleshoot issues, refine SLAs, and continuously improve operational reliability and scalability.
+
+**What We Need to See:**
+
+* BS/MS in Computer Science, Computer Engineering, or relevant field (or equivalent experience).
+* 5\\+ years of professional experience in infrastructure, distributed systems, or platform engineering.
+* Hands\\-on experience with Linux systems, Kubernetes/Docker, Terraform, and CI/CD pipelines.
+* Strong scripting/development skills in Python, Bash, and exposure in C\\+\\+ and/or GoLang.
+* Familiarity with Bazel build/test automation frameworks.
+* Experience in data/log ingestion workflows and distributed compute/storage systems.
+* Strong debugging, problem\\-solving, and communication skills to work across internal and vendor teams.
+* Proven comfort leveraging AI based development tools, such as Claude Code and Cursor.
+
+**Ways to Stand Out from the Crowd:**
+
+* Strong experience in large\\-scale distributed systems or GPU/CPU cluster deployments, infrastructure automation, data pipelines, and AWS.
+* Prior experience with scenario\\-based validation platforms or AV simulation ecosystems.
+* Strong knowledge of logging/monitoring/alerting frameworks (Prometheus, Grafana, ELK stack).
+* Experience working directly with external vendors to integrate platforms and operationalize SLAs.
+* Proactive use of AI/ML techniques to accelerate log analysis, coverage metrics, or integration workflows.
+
+
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward\\-thinking and hardworking people in the world working for us and our engineering teams are growing fast in some of the hottest innovative fields: Deep Learning, Artificial Intelligence, and Autonomous Vehicles. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars. NVIDIA is looking for great people like you to help us with the next wave of validation and tooling for autonomous driving solutions. If you're passionate about autonomous vehicles, we would love to hear from you!
+
+
+Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 148,000 USD \\- 235,750 USD for Level 3, and 184,000 USD \\- 287,500 USD for Level 4\\.
+You will also be eligible for equity and benefits.
+
+
+Applications for this job will be accepted at least until September 21, 2025\\.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",,https://www.indeed.com/cmp/Nvidia,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9cda2ebf26905efa812e1a5315c7a53d,http://www.nvidia.com,"Santa Clara, CA","10,000+",$5B to $10B (USD),Bringing superhuman capabilities to some of the world's toughest problems.,,,,,,
+in-ae5aaa9512a6c958,indeed,https://www.indeed.com/viewjob?jk=ae5aaa9512a6c958,https://click.appcast.io/t/VYF-oJkOfHZN0DIOIWJkgNsqhoUtrQ840QFcNaDcqXA=,Mobile Engineer III,Expedia Group,"San Jose, CA, US",17-09-2025,fulltime,direct_data,yearly,149000,238500,USD,FALSE,,,,,"Expedia Group brands power global travel for everyone, everywhere. We design cutting\\-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success.
+
+**Why Join Us?**
+
+
+To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win.
+
+
+We provide a full benefits package, including exciting travel perks, generous time\\-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We’re building a more open world. Join us.
+
+**Mobile Engineer III**
+
+**Introduction to the team:**
+
+
+Expedia Technology teams partner with our Product teams to create innovative products, services, and tools to deliver high\\-quality experiences for travelers, partners, and our employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction.
+  
+
+  
+
+Join the Product and Offers Experience org at Expedia Group, where you will be part of the VR Differentiators team, responsible for enhancing the Vacation Rental experience across Expedia Group brands, including Vrbo.com. We implement features to drive business value on all UI platforms and our API layer. Developers work closely with each other as well as product, program, and design partners.  
+
+
+
+  
+
+As a key contributor on this team, you will leverage your technical expertise and passion for innovation to design and implement scalable, forward\\-thinking solutions. Your work will directly impact millions of travelers and partners worldwide by shaping the way they explore, personalize, and book travel.
+  
+
+  
+
+**In this role, you will:**
+
+
+* Build and enhance core features of our iOS Vacation Rentals app, with an emphasis on speed, stability, and delivering exceptional user experiences
+* Partner closely with product managers, designers, and platform engineers to create seamless, consistent, and intuitive interfaces
+* Take part in shaping architectural decisions and guiding the technical strategy for iOS development
+* Diagnose and address performance bottlenecks, crashes, and defects using monitoring, analytics, and crash\\-reporting tools
+* Champion modern iOS development practices by promoting test automation, accessibility, and maintainable architectural patterns
+* Support and mentor other engineers, actively contributing to code reviews and reinforcing a culture of collaboration and technical excellence
+
+
+
+**Minimum** **Qualifications:**
+
+
+* Bachelor's or Master's degree in a Technical field; or equivalent related professional experience
+* 5\\+ years of hands\\-on experience designing, developing, and launching iOS applications at scale using Swift
+* Strong knowledge in iOS UI frameworks, architectural components, asynchronous programming, and patterns such as MVVM (or equivalents)
+* Well versed in the iOS SDK with experience across several frameworks; primarily SwiftUI, UIKit (and understanding of lower level frameworks such as Core Animation), XCTest and Combine/RxSwift
+* Familiarity with RESTful APIs to connect iOS applications to back\\-end services
+* Knowledge of UI/UX standards, Apple design principles and interface guidelines
+**Preferred Qualifications:**
+
+
+* Experience mentoring and guiding junior engineers on team
+* Ability to lead technical discussions and influence decisions across teams and organizations.
+* Proven experience to take features from initial concept through release, iteration, and long\\-term support
+* Enthusiastic about crafting accessible, performant, and intuitive mobile experiences
+* Skilled at collaborating within cross\\-functional teams and contributing to thoughtful, product\\-oriented engineering decisions
+* GraphQL experience
+* Experience with debugging/triaging tools, Instruments, proxies, etc
+* Familiarity with continuous integration and the App Store approval process
+The total cash range for this position in San Jose is $149,000\\.00 to $208,500\\.00\\. Employees in this role have the potential to increase their pay up to $238,500\\.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.
+Starting pay for this role will vary based on multiple factors, including location, available budget, and an individual’s knowledge, skills, and experience. Pay ranges may be modified in the future.
+
+
+Expedia Group is proud to offer a wide range of benefits to support employees and their families, including medical/dental/vision, paid time off, and an Employee Assistance Program. To fuel each employee’s passion for travel, we offer a wellness \\& travel reimbursement, travel discounts, and an International Airlines Travel Agent (IATAN) membership. View our full list of benefits.
+
+**Accommodation requests**
+
+
+If you need assistance with any part of the application or recruiting process due to a disability, or other physical or mental health conditions, please reach out to our Recruiting Accommodations Team through the Accommodation Request.
+
+
+We are proud to be named as a Best Place to Work on Glassdoor in 2024 and be recognized for award\\-winning culture by organizations like Forbes, TIME, Disability:IN, and others.
+
+
+Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™. © 2024 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030\\-50
+
+
+Employment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals with whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs.
+
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E\\-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I\\-9 to confirm work authorization.",,https://www.indeed.com/cmp/Expedia-Group,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dc2f6a555bc44b39693072896a640da7,https://careers.expediagroup.com/,,"10,000+",Decline to state,"Powering global travel for everyone, everywhere.",,,,,,
+in-07a91a0ab892c437,indeed,https://www.indeed.com/viewjob?jk=07a91a0ab892c437,https://careers.roche.com/global/en/job/202509-122075,Sr Software Verification and Validation Engineer,Roche,"Santa Clara, CA, US",17-09-2025,fulltime,direct_data,yearly,118658,151152,USD,FALSE,,,,,"At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.
+
+
+The Position
+The Opportunity
+Join us as a member of Roche Sequencing Solution's Verification \\& Validation team, where you will be responsible for developing the test plans, verification strategies, traceability, and test infrastructure for Roche Digital Pathology products. You will test cutting\\-edge, distributed, scale\\-out Next\\-Generation Digital Scanning software to ensure highest possible software quality for disease diagnostics.
+
+
+The Sr Software Verification and Validation Engineer will debug software products using systematic tests to develop, apply, and maintain quality standards for company products. You will develop, modify, and execute software test plans and programs for testing; analyze and write test standards and procedures. Maintain documentation of test results to assist in debugging and modification of software.
+
+
+You are consulting with development engineers in the resolution of problems. and ensuring that quality computer integration into the overall functions of scientific computation, data acquisition, and processing.
+
+
+In this role, you are also:
+
+* Working independently to create, maintain, and execute manual test plans.
+* Creating traceability between test plans and formal requirement documents.
+* Participating in Scrum meetings, be involved in requirements gathering, user stories and test cases creation, and defects reporting.
+* Identifying software defects as early as possible in the software development process, and problems resolution to management.
+* Working with cross\\-functional teams and a variety of disciplines, such as scientists, regulatory, and quality to gain an understanding of the product, which will aid the creation of the test plans.
+* Participating in the evaluation of tools, test development, and automation environment used for software verification.
+* Mentoring team members in best practices and skills development.
+
+
+Who You Are* B.S. or M.S. in Computer Science, Bioinformatics, or a related engineering field.
+* Minimum of two (2\\) years directly related experience or equivalent combination of education and experience. Your experience is related to manual testing of Digital Scanning software in an Agile software development environment.
+* Experience working in a regulated medical device environment, following Design Control procedures (such as IEC 62304 FDA 21 CFR 820, etc.).
+
+
+Behaviors, competencies, and qualities of the ideal applicant.
+
+* Demonstrates success for technical proficiency, engineering creativity, collaboration with others, and independent thought. Knowledge of engineering principles and concepts.
+* Develops and uses company design practices as applied to projects. Understands and applies industry practices and benchmarks.
+* Uses company practices for SW integration and test at the expert level.
+
+
+Relocation benefits are not offered for this position.
+
+
+The expected salary range for this position based on Santa Clara is $118,658\\.00 \\- $151,152\\.00\\. Actual pay will be determined based on experience, qualifications, geographic location, and other job\\-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.
+
+
+Benefits
+
+
+Who we are
+A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life\\-changing healthcare solutions that make a global impact.
+
+  
+
+Let’s build a healthier future, together.
+
+
+Roche is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+
+
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",Health Care,https://www.indeed.com/cmp/Roche,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/57644b96c9bea20127c7c0de704f9af5,https://www.roche.com/,"Grenzacherstrasse 124, CH-4070 Basel, Switzerland","10,000+",more than $10B (USD),"Roche is one of the world’s largest biotech companies, as well as a leading provider of in-vitro diagnostics and a global supplier of innovative solutions across major disease areas.",,,,,,
+in-f1e9294cde78c394,indeed,https://www.indeed.com/viewjob?jk=f1e9294cde78c394,https://careers-blackhawknetwork.icims.com/jobs/24796/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,Sr. Software Engineer,Blackhawk Network,"Pleasanton, CA, US",17-09-2025,fulltime,direct_data,yearly,89620,156340,USD,FALSE,,,,,"About Blackhawk Network:
+
+Today, through BHN’s single global platform, businesses of all kinds can tap into the world’s largest network of branded payment solutions. BHN helps businesses grow revenue, increase loyalty, motivate and reward their teams, disburse funds and engage consumers. Branded payment solutions include the issuance and distribution of gift cards, egifts, corporate payouts and rewards, along with the technology to deliver these products in seamless, integrated ways. BHN’s network spans the globe with more than 400,000 consumer touchpoints. Learn more at BHN.com.
+Overview:
+
+We are seeking a **Senior Software Engineer – Data Engineer** to join our team and drive data\\-driven decision\\-making across the organization. This role will focus on building and optimizing data pipelines, integrating multiple data sources, and enabling advanced analytics and insights. The ideal candidate has strong expertise in **SQL** with proven experience designing scalable data solutions.
+Responsibilities:
+* Design, build, and maintain **scalable data pipelines** to ingest, transform, and deliver data from multiple sources.
+* Develop **SQL\\-based ETL processes** to ensure data accuracy, consistency, and availability.
+* Work closely with analytics and business stakeholders to **integrate and leverage CJA and GA data** for advanced insights.
+* Collaborate with cross\\-functional teams to **define data requirements** and deliver analytics\\-ready datasets.
+* Ensure high data quality, integrity, and governance standards across systems.
+* Optimize query performance and troubleshoot issues in **large\\-scale datasets**.
+* Implement monitoring and alerting to ensure reliability of data pipelines.
+* Mentor junior engineers and contribute to **best practices in data engineering**.
+
+
+Qualifications:
+* **Bachelor’s/Master’s degree** in Computer Science, Engineering, Data Science, or related field.
+* **4\\+ years of experience** in software engineering or data engineering roles.
+* Strong proficiency in **SQL** (complex queries, optimization, data modeling).
+* Exposure to **Adobe Customer Journey Analytics (CJA)** and **Google Analytics (GA)**.
+* Solid understanding of **ETL/ELT frameworks** and data integration best practices.
+* Experience with **cloud platforms** (e.g., AWS, GCP, or Azure).
+* Strong programming skills in Python, Java, or Scala (for data pipelines).
+* Knowledge of **data warehousing** concepts (Snowflake, BigQuery, Redshift, or similar).
+* Excellent problem\\-solving skills with a focus on performance, scalability, and reliability.
+
+
+Benefits:
+
+Salary Range for California Residents Only: $115,800\\.00 to $156,340\\.00
+Salary Range for Illinois Residents Only: $89,620\\.00 to $121,000\\.00  
+
+Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Blackhawk Network offers benefits including 401k with employer match, medical, dental, vision, 12 paid holidays in the year 2025, 1 hour of sick pay accrual for every 30 hours worked, parental leave, life insurance, disability insurance, accident and illness insurance, health and dependent care flexible spending accounts, wellness benefits, and flexible time off for all full\\-time employees.
+EEO Statement:
+
+Blackhawk Network provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Blackhawk Network believes that diversity leads to strength. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.  
+
+Blackhawk Network encourages applicants with previous criminal records to apply to all positions and, pursuant to the San Francisco and Los Angeles Fair Chance Acts (and other “Fair Chance” laws), Blackhawk Network will consider for employment qualified applicants with arrest and conviction records. For Philadelphia applicants or jobs, please see a copy of Philadelphia’s ordinance on this topic by clicking this link: https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia\\_pa/0\\-0\\-0\\-280104\\.",,https://www.indeed.com/cmp/Blackhawk-Network,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9f078d148339cf90890468f841259639,http://www.blackhawknetwork.com,"Pleasanton, CA","1,001 to 5,000",$1B to $5B (USD),"We shape the future of global branded payments. Blackhawk Network's core values are centered around winning as one team, innovation, global excellence and inspiring others.",,,,,,
+in-0b575ccd8408be66,indeed,https://www.indeed.com/viewjob?jk=0b575ccd8408be66,https://careers.rivianvw.tech/jobs/26300/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,"Staff Android Software Engineer, Infotainment Navigation",Rivian and Volkswagen Group Technologies,"Palo Alto, CA, US",17-09-2025,fulltime,direct_data,yearly,186000,232500,USD,FALSE,,,,candidateaccommodations@rivian.com,"About Us:
+
+Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the standards for software\\-defined vehicles around the world.  
+
+The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we’ll map a new way forward. Working together, we’ll create a future that’s more connected, more intelligent, more sustainable for everyone.
+Role Summary:
+
+The Infotainment Navigation team is chartered to develop in\\-vehicle navigation applications and user experiences for our products and composed of developers of all backgrounds with experience in Android, SDKs, IoT, Bluetooth, and Security... and we are growing!
+Outside of work our team is chock full of adventure seekers in all senses of the phrase. We have lived and travelled around the world, we ski and snowboard, we camp and hike, we take up adventurous hobbies like bagpipe playing, some of us have joined the adventure of raising kids \\- and some of us have joined the equally adventurous world of raising pets...  
+
+  
+
+But the most adventurous thing we have all done recently is jump ship from the safety of corporate jobs to come together and become Rivian and Volkswagen Group Technologies!
+Responsibilities:
+* Design and develop infotainment applications on Android Automotive OS
+* Create modular and scalable software that can adapt to a variety of different products and use cases
+* Create designs pattern and libraries to facilitate application developments
+* Collaborate with cross\\-functional teams, including product and UI/UX design teams to define application features
+* Identify potential problems and resolve application bottlenecks for performance optimizations
+* Maintain and contribute to reliable and repeatable testing suites to manage performance across releases, ensuring the best performance systems for our customers now and into the future
+* Perform code reviews and practice continuous integration and development
+* Write test code to test for quality, robustness, and functional correctness, including edge cases
+* Design and implement features end\\-to\\-end for application updates and releases
+* Develop sample and demo applications, making use of our technology
+* Grow your skills with continual learning, workshops, conferences, and talks
+
+
+Qualifications:
+* Bachelor’s degree in Computer Science or Software Engineering (MS preferred) or equivalent professional experience
+* Proven Android application developer with 8\\+ years of experience
+* High Proficiency in Kotlin and Java, with exposure to systems programming languages like Rust and C\\+\\+
+* Ability to learn new languages and systems as needed to support new technologies and initiatives
+* Ability to chase bugs through the entire Android stack; from low\\-level driver issues, across inter\\-process communications channels, to and from network services, and into various shared components and libraries
+* Ability to manage your workload with minimal supervision
+* Proficiency in using Android and Native Linux APIs, including knowledge of Android NDK and JNI
+* Knowledge of Android design principles and application interface guidelines
+* Knowledge of Android performance and testing frameworks
+* Familiarity with embedded Android framework services
+* Advanced concurrently experience, particularly Kotlin Coroutines and Flows
+* Experience profiling and optimizing Android UI performance
+* Excellent coding and proofreading skills
+* Familiarity with the best in class Software development practices
+* Proficient in code versioning tools including Git, Gitlab and others
+* Experience with continuous integration tools, such as Jenkins
+* Familiarity with development and issue tracking best practices
+* Excellent interpersonal skills with the ability to collaboratively work with and influence cross\\-functional teams
+* Top\\-notch teamwork and communication skills
+
+
+Pay Disclosure:
+**Salary Range for Palo Alto, California Based Applicants:** 186,000 USD \\- 232,500 USD (actual compensation will be determined based on experience, location, and other factors permitted by law). **Benefits Summary:** Rivian and Volkswagen Group Technologies provides robust medical/Rx, dental and vision insurance packages for full\\-time and part\\-time employees, their spouse or domestic partner, and children up to age 26\\. Full Time Employee coverage is effective on the first day of employment. Part\\-Time employee coverage is effective the first of the month following 90 days of employment.
+Company Statements:
+#### **Equal Opportunity**
+
+
+Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.  
+
+Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.#### **Candidate Data Privacy**
+
+
+Rivian and VW Group Technologies (“Rivian and Volkswagen Group Technologies”) may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.  
+
+Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies’ service providers, including providers of background checks, staffing services, and cloud services.  
+
+Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.  
+
+Please see our Candidate Data Privacy Notice (English) and Candidate Data Privacy Notice (Serbian) for more information. **Please note that we are currently not accepting applications from third party application services.**",,https://www.indeed.com/cmp/Rivian-and-Volkswagen-Group-Technologies-1,,,,,,,,,,,,
+in-e5444888c988cdce,indeed,https://www.indeed.com/viewjob?jk=e5444888c988cdce,https://www.amazon.jobs/jobs/2936350/software-development-engineer?cmpid=DA_INAD200785B,Software Development Engineer,Amazon.com,"Sunnyvale, CA, US",25-03-2025,fulltime,direct_data,yearly,129300,223600,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+We have a rapidly growing customer base and an exciting charter in front of us that includes solving highly complex engineering and algorithmic problems. We are looking for passionate and talented Software Development Engineers to join us to innovate on this new service that addresses customer needs to build modern contact centers in the cloud. The position represents a rare opportunity to be a part of a fast\\-growing business soon after launch, and help shape the technology and product as we grow. You will be playing a crucial role in developing the next generation contact center, and get the opportunity to design and deliver scalable, resilient systems while maintaining a constant customer focus.  
+
+  
+
+As a developer on our team, you’ll own code end\\-to\\-end from design to development, and work closely with senior technical leaders within the team and across AWS. You’ll have a sound understanding of computer science fundamentals and practical industry experience, working across the stack with technology involving modern web, SOA, NoSQL databases, MicroServices and more.  
+
+  
+
+About the team  
+
+This team is a great fit for you if  
+
+  
+
+You enjoy working with a fun team that prides itself on a great work environment with an inclusive group of people that are working together towards a common goal.  
+
+You are sensitive to customer needs and interested in working on a service that will be used, directly and indirectly, by millions of customers and has a meaningful impact to their functions and interactions.  
+
+You’d like to be directly responsible for solving real customer problems.  
+
+You are a passionate learner and are motivated to take on new challenges.  
+
+You want to have fun; surround yourself with a highly talented pool of engineers that like to solve complex problems, but also enjoy work life balance.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-1b0f9442149500a3,indeed,https://www.indeed.com/viewjob?jk=1b0f9442149500a3,https://www.amazon.jobs/jobs/2936350/software-development-engineer?cmpid=DA_INAD200785B,Software Development Engineer,Amazon.com,"Santa Clara, CA, US",25-03-2025,fulltime,direct_data,yearly,129300,223600,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+We have a rapidly growing customer base and an exciting charter in front of us that includes solving highly complex engineering and algorithmic problems. We are looking for passionate and talented Software Development Engineers to join us to innovate on this new service that addresses customer needs to build modern contact centers in the cloud. The position represents a rare opportunity to be a part of a fast\\-growing business soon after launch, and help shape the technology and product as we grow. You will be playing a crucial role in developing the next generation contact center, and get the opportunity to design and deliver scalable, resilient systems while maintaining a constant customer focus.  
+
+  
+
+As a developer on our team, you’ll own code end\\-to\\-end from design to development, and work closely with senior technical leaders within the team and across AWS. You’ll have a sound understanding of computer science fundamentals and practical industry experience, working across the stack with technology involving modern web, SOA, NoSQL databases, MicroServices and more.  
+
+  
+
+About the team  
+
+This team is a great fit for you if  
+
+  
+
+You enjoy working with a fun team that prides itself on a great work environment with an inclusive group of people that are working together towards a common goal.  
+
+You are sensitive to customer needs and interested in working on a service that will be used, directly and indirectly, by millions of customers and has a meaningful impact to their functions and interactions.  
+
+You’d like to be directly responsible for solving real customer problems.  
+
+You are a passionate learner and are motivated to take on new challenges.  
+
+You want to have fun; surround yourself with a highly talented pool of engineers that like to solve complex problems, but also enjoy work life balance.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-d6477084b575f55f,indeed,https://www.indeed.com/viewjob?jk=d6477084b575f55f,https://www.amazon.jobs/jobs/2937618/software-development-engineer-amazon-stores?cmpid=DA_INAD200785B,"Software Development Engineer, Amazon Stores",Amazon.com,"Sunnyvale, CA, US",25-03-2025,fulltime,direct_data,yearly,129300,223600,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+Come build the future as a Software Development Engineer at Amazon, where you will be inspired working along best\\-in\\-class inventors and innovators! You will have the opportunity to create meaningful experiences that deliver on the ever\\-evolving needs of our customers, and your work will impact millions of people around the world.  
+
+  
+
+As an Amazon Software Development Engineer, you will solve unique and complex problems at a rapid pace, utilizing the latest technologies to create solutions that are highly scalable. You will find that there is an unlimited amount of opportunities within Amazon, where developing your career across a wide range of teams is highly supported. We are committed to making your work experience as enjoyable as the experiences you’ll be creating for our customers.  
+
+  
+
+Apply now and you will be eligible for Amazon Software Development Engineering positions that are based on your preferred location, team, tech stack, domain, language and more. We’re hiring across Amazon Stores in the United States and Canada. Teams with available positions including, but are not limited to:  
+
+  
+
+* Consumer Technology: Build new generation features and products for amazon.com, constantly improving the Customer and Seller experience for billions around the globe. Whether building site wide features such as reviews and recommendations, category specific software for the likes of Pharmacy, Electronics, Digital Software and Video Games or seller infrastructure, there are a variety of complex problems to tackle using a range of technologies in the design of your technical solutions.
+
+  
+
+* Operations Technology: Shape the future of transportation planning and execution on a global scale, that impacts hundreds of fulfillment centers, thousands of Amazonians, and millions of customers across the world. Your technology will support thousands of operators worldwide to design, build and run the best\\-in\\-class Amazon transportation network. We are building intelligent software to make transportation more reliable, faster, and less costly, providing a better and less expensive experience for our customers.
+
+  
+
+* Financial Technology: Create next generation of distributed, scalable financial systems that support Amazon's current and future business needs. Use big data technologies to design and develop services that facilitate global financial transactions worth billions annually. You’ll lead architecture, design, implementation and deployment of large\\-scale critical and complex financial applications, owning all aspects of solutions end\\-to\\-end, through full stack software development.
+
+  
+
+* Human Resources Technology: Create a seamless experience for millions of Amazonians and/or candidates. Whether supporting technologies for onboarding, time and attendance, compensation, ama\\-zon.jobs, or recruiting, you’ll deliver robust feature sets, elegant designs, intuitive user interfaces and systems that make it easy for Amazonians to excel at performing critical business functions.
+
+  
+
+Depending on your experience, interests and business needs, you will own the front\\-end, back\\-end, or full stack design and development of product features, building scale, efficiency, and differentiated customer experiences. We’re looking for software engineers passionate about building software solutions end\\-to\\-end, have strong software development experience delivering at scale solutions, and systems design skills. You should have a demonstrated ability delivering within a DevOps delivery model from scoping requirements, requirement analysis, design, development, test, CI/CD, security implementation, and operational excellence with the ability to work cross\\-functionally with Product Managers, business stakeholders and other tech teams through the actual launch of the project. You should also have experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-2834c3951b9eb8d2,indeed,https://www.indeed.com/viewjob?jk=2834c3951b9eb8d2,https://www.amazon.jobs/jobs/2937691/software-development-engineer-amazon-stores?cmpid=DA_INAD200785B,"Software Development Engineer, Amazon Stores",Amazon.com,"Sunnyvale, CA, US",25-03-2025,fulltime,direct_data,yearly,151300,261500,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+As an Amazon Senior Software Development Engineer, you will solve unique and complex problems at a rapid pace, utilizing the latest technologies to create solutions that are highly scalable. You will find that there is an unlimited amount of opportunities within Amazon, where developing your career across a wide range of teams is highly supported. We are committed to making your work experience as enjoyable as the experiences you’ll be creating for our customers.  
+
+  
+
+Apply now and you will be eligible for Amazon Senior Software Development Engineering positions that are based on your preferred location, team, tech stack, domain, language and more. We’re hiring across Amazon Stores in the United States and Canada. Teams with available positions including, but are not limited to:  
+
+  
+
+* Consumer Technology: Build new generation features and products for amazon.com, constantly improving the Customer and Seller experience for billions around the globe. Whether building site wide features such as reviews and recommendations, category specific software for the likes of Pharmacy, Electronics, Digital Software and Video Games or seller infrastructure, there are a variety of complex problems to tackle using a range of technologies in the design of your technical solutions.
+
+  
+
+* Operations Technology: Shape the future of transportation planning and execution on a global scale, that impacts hundreds of fulfillment centers, thousands of Amazonians, and millions of customers across the world. Your technology will support thousands of operators worldwide to design, build and run the best\\-in\\-class Amazon transportation network. We are building intelligent software to make transportation more reliable, faster, and less costly, providing a better and less expensive experience for our customers.
+
+  
+
+* Financial Technology: Create next generation of distributed, scalable financial systems that support Amazon's current and future business needs. Use big data technologies to design and develop services that facilitate global financial transactions worth billions annually. You’ll lead architecture, design, implementation and deployment of large\\-scale critical and complex financial applications, owning all aspects of solutions end\\-to\\-end, through full stack software development.
+
+  
+
+* Human Resources Technology: Create a seamless experience for millions of Amazonians and/or candidates. Whether supporting technologies for onboarding, time and attendance, compensation, ama\\-zon.jobs, or recruiting, you’ll deliver robust feature sets, elegant designs, intuitive user interfaces and systems that make it easy for Amazonians to excel at performing critical business functions.
+
+  
+
+Depending on your experience, interests and business needs, you will own the front\\-end, back\\-end, or full stack design and development of product features, building scale, efficiency, and differentiated customer experiences. We’re looking for software engineers passionate about building software solutions end\\-to\\-end, have strong software development experience delivering at scale solutions, and systems design skills. You should have a demonstrated ability delivering within a DevOps delivery model from scoping requirements, requirement analysis, design, development, test, CI/CD, security implementation, and operational excellence with the ability to work cross\\-functionally with Product Managers, business stakeholders and other tech teams through the actual launch of the project. You should also have experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.  
+
+  
+
+About the team  
+
+Here at Amazon, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee\\-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.**BASIC QUALIFICATIONS**
+------------------------
+
+* 5\\+ years of non\\-internship professional software development experience
+* 5\\+ years of programming with at least one software programming language experience
+* 5\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 5\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-1e68a17bfdba85ef,indeed,https://www.indeed.com/viewjob?jk=1e68a17bfdba85ef,https://www.amazon.jobs/jobs/2914306/software-development-engineer-frontier-ai--robotics?cmpid=DA_INAD200785B,"Software Development Engineer, Frontier AI & Robotics",Amazon.com,"San Francisco, CA, US",28-02-2025,fulltime,direct_data,yearly,129300,223600,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+Join the next revolution in robotics at Amazon's Frontier AI \\& Robotics team, where you'll contribute to breakthrough foundation models run at production scale. As a Software Development Engineer embedded in our science team, you'll be instrumental in transforming novel research into high\\-performance production systems. You'll collaborate directly with scientists to optimize large\\-scale transformer architectures for robotics applications, leveraging your expertise in CUDA and TensorRT to achieve unprecedented inference efficiency at Amazon scale.  
+
+  
+
+In this role, you'll balance deep technical optimization work with strategic input on model architecture decisions, ensuring our innovative robotics models are designed with performance in mind from the ground up. You'll leverage NVIDIA's acceleration stack and other compilation techniques to tackle ambitious performance targets, working at the intersection of large language models and real\\-world robotics applications.  
+
+  
+
+Key job responsibilities  
+
+* Drive inference optimization strategies for large\\-scale foundation models using TensorRT, CUDA, and other NVIDIA tools
+* Collaborate closely with scientists to influence model architectures for optimal hardware utilization
+* Design and implement efficient compilation pipelines for complex transformer architectures
+* Develop comprehensive benchmarking frameworks to measure and optimize model performance
+* Build robust monitoring solutions to ensure reliable model serving at scale
+* Explore and evaluate emerging optimization techniques including ONNX Runtime and other ML compilers
+* Maintain high engineering standards through proper testing, documentation, and code review practices
+
+  
+
+A day in the life  
+
+* Optimize transformer blocks using custom CUDA kernels and TensorRT optimization techniques
+* Partner with scientists to analyze model architectures and propose efficiency improvements
+* Implement and benchmark various optimization strategies for large\\-scale models
+* Debug performance bottlenecks using NVIDIA profiling tools
+* Participate in technical discussions about new model architectures with the science team
+* Design and maintain performance monitoring systems for production deployment
+* Prototype new acceleration approaches using emerging compilation frameworks
+
+  
+
+About the team  
+
+At Frontier AI \\& Robotics, we're not just advancing robotics – we're reimagining it from the ground up. Our team is building the future of intelligent robotics through frontier foundation models and end\\-to\\-end learned systems. We tackle some of the most challenging problems in AI and robotics, from developing sophisticated perception systems to creating adaptive manipulation strategies that work in complex, real\\-world scenarios.  
+
+  
+
+What sets us apart is our unique combination of ambitious research vision and practical impact. We leverage Amazon's massive computational infrastructure and rich real\\-world datasets to train and deploy state\\-of\\-the\\-art foundation models. Our work spans the full spectrum of robotics intelligence – from multimodal perception using images, videos, and sensor data, to sophisticated manipulation strategies that can handle diverse real\\-world scenarios. We're building systems that don't just work in the lab, but scale to meet the demands of Amazon's global operations.  
+
+  
+
+Join us if you're excited about pushing the boundaries of what's possible in robotics, working with world\\-class researchers, and seeing your innovations deployed at unprecedented scale.**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-4ea744dc866a07f0,indeed,https://www.indeed.com/viewjob?jk=4ea744dc866a07f0,https://www.amazon.jobs/jobs/2914307/sr-software-development-engineer-far-frontier-ai--robotics?cmpid=DA_INAD200785B,"Sr. Software Development Engineer, FAR (Frontier AI & Robotics)",Amazon.com,"San Francisco, CA, US",28-02-2025,fulltime,direct_data,yearly,151300,261500,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+Join the next revolution in robotics at Amazon's Frontier AI \\& Robotics team, where you'll work alongside world\\-renowned AI pioneers like Pieter Abbeel, Rocky Duan, and Peter Chen to make breakthrough foundation models run at production scale. As a Senior Machine Learning Engineer embedded in our science team, you'll be instrumental in transforming cutting\\-edge research into high\\-performance production systems. You'll collaborate directly with scientists to optimize large\\-scale transformer architectures for robotics applications, leveraging your expertise in CUDA and TensorRT to achieve unprecedented inference efficiency at Amazon scale.  
+
+In this role, you'll balance deep technical optimization work with strategic input on model architecture decisions, ensuring our innovative robotics models are designed with performance in mind from the ground up. You'll leverage NVIDIA's acceleration stack and other compilation techniques to tackle ambitious performance targets, working at the intersection of large language models and real\\-world robotics applications.  
+
+  
+
+Key job responsibilities  
+
+* Drive inference optimization strategies for large\\-scale foundation models using TensorRT, CUDA, and other NVIDIA tools
+* Collaborate closely with scientists to influence model architectures for optimal hardware utilization
+* Design and implement efficient compilation pipelines for complex transformer architectures
+* Develop comprehensive benchmarking frameworks to measure and optimize model performance
+* Build robust monitoring solutions to ensure reliable model serving at scale
+* Explore and evaluate emerging optimization techniques including ONNX Runtime and other ML compilers
+* Maintain high engineering standards through proper testing, documentation, and code review practices
+
+  
+
+A day in the life  
+
+* Optimize transformer blocks using custom CUDA kernels and TensorRT optimization techniques
+* Partner with scientists to analyze model architectures and propose efficiency improvements
+* Implement and benchmark various optimization strategies for large\\-scale models
+* Debug performance bottlenecks using NVIDIA profiling tools
+* Participate in technical discussions about new model architectures with the science team
+* Design and maintain performance monitoring systems for production deployment
+* Prototype new acceleration approaches using emerging compilation frameworks
+
+  
+
+About the team  
+
+At Frontier AI \\& Robotics, we're not just advancing robotics – we're reimagining it from the ground up. Our team, led by pioneering AI researchers Pieter Abbeel, Rocky Duan, and Peter Chen, is building the future of intelligent robotics through groundbreaking foundation models and end\\-to\\-end learned systems. We tackle some of the most challenging problems in AI and robotics, from developing sophisticated perception systems to creating adaptive manipulation strategies that work in complex, real\\-world scenarios.  
+
+What sets us apart is our unique combination of ambitious research vision and practical impact. We leverage Amazon's massive computational infrastructure and rich real\\-world datasets to train and deploy state\\-of\\-the\\-art foundation models. Our work spans the full spectrum of robotics intelligence – from multimodal perception using images, videos, and sensor data, to sophisticated manipulation strategies that can handle diverse real\\-world scenarios. We're building systems that don't just work in the lab, but scale to meet the demands of Amazon's global operations.  
+
+Join us if you're excited about pushing the boundaries of what's possible in robotics, working with world\\-class researchers, and seeing your innovations deployed at unprecedented scale.**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science or equivalent
+* 5\\+ years of non\\-internship professional software development experience
+* 5\\+ years of programming with at least one software programming language experience
+* 5\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Strong expertise in Python, C\\+\\+ and CUDA programming
+* Experience with TensorRT or similar ML optimization frameworks
+* Track record of optimizing ML models for production
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Expertise in NVIDIA's ML stack (cuDNN, CUDA Graph, etc.)
+* Experience with ML compilers (ONNX Runtime, TVM, etc.)
+* Experience with transformer model optimization
+* Background in performance profiling and optimization
+* Experience working directly with research teams
+* Track record of building robust monitoring systems
+* Experience with large\\-scale ML serving systems
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+in-d6f34689480309be,indeed,https://www.indeed.com/viewjob?jk=d6f34689480309be,https://www.amazon.jobs/jobs/2829138/software-development-engineer-veteran-opportunity?cmpid=DA_INAD200785B,"Software Development Engineer, Veteran Opportunity",Amazon.com,"East Palo Alto, CA, US",13-11-2024,fulltime,direct_data,yearly,99500,200000,USD,FALSE,,,,,"**DESCRIPTION**
+---------------
+
+
+This opportunity is for U.S. citizens who have served in the U.S. Armed Forces including Reserves, National Guard, and service member spouses.
+  
+
+  
+
+NOTE: Please list this service in your resume
+  
+
+  
+
+Do you want to help lead the cloud revolution and build software that thrives at immense scale?  
+
+  
+
+Amazon Web Services (AWS) is the world leader in providing a highly reliable, scalable, low\\-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world!  
+
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.  
+
+  
+
+Key job responsibilities  
+
+  
+
+* Collaborate with experienced cross\\-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.
+* Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.
+* Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.
+* Build distributed storage, index, and query systems that are scalable, fault\\-tolerant, low cost, and easy to manage/use.
+* Design and code the right solutions starting with broadly defined problems.
+* Work in an agile environment to deliver high\\-quality software.
+
+  
+
+Join our team and see for yourself why AWS is best place to build amazing things – including your career.  
+
+  
+
+About the team  
+
+Inclusive Team Culture
+  
+
+  
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+
+  
+
+Mentorship and Career Growth  
+
+  
+
+We have a career path for you no matter what stage you’re in when you start here. You’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.  
+
+  
+
+  
+
+  
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's Degree or higher in Computer Science, Computer Engineering, or related fields with a graduation date between May 2023 \\- September 2025 or graduated within the last 24 months.
+* Programming experience with at least one modern language such as Java, C\\+\\+, or C\\# including object\\-oriented design
+* Strong knowledge of Computer Science fundamentals in object\\-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of, at least, one modern programming language such as C, C\\+\\+, Java, or Perl
+* Experience building complex software systems that have been successfully delivered to customers
+* Knowledge of professional software engineering practices \\& best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+* Ability to take a project from scoping requirements through actual launch of the project
+* Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+li-4291828822,linkedin,https://www.linkedin.com/jobs/view/4291828822,,Software Engineer - New Grad,Valon,"San Francisco, CA",17-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/valon-technologies,,,,,,,,,,,,
+li-4299958466,linkedin,https://www.linkedin.com/jobs/view/4299958466,,Software Engineer Intern - Summer 2026,Numeric,"San Francisco, CA",17-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/numeric-io,,,,,,,,,,,,
+li-4299543513,linkedin,https://www.linkedin.com/jobs/view/4299543513,,"Software Engineer, Intern/Co-op",Meta,"Menlo Park, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/meta,,,,,,,,,,,,
+li-4301383584,linkedin,https://www.linkedin.com/jobs/view/4301383584,,"Software engineer, new grad",Watershed,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/watershedclimate,,,,,,,,,,,,
+li-4299574935,linkedin,https://www.linkedin.com/jobs/view/4299574935,,"Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026)",OpenAI,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/openai,,,,,,,,,,,,
+li-4301107657,linkedin,https://www.linkedin.com/jobs/view/4301107657,,"Software Engineering, New Grad",Eventual,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/eventualai,,,,,,,,,,,,
+li-4301570287,linkedin,https://www.linkedin.com/jobs/view/4301570287,,Frontend Software Engineer,Collate,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/collate-software,,,,,,,,,,,,
+li-4301562580,linkedin,https://www.linkedin.com/jobs/view/4301562580,,Full-Stack Software Engineer (Backend-Leaning),Collate,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/collate-software,,,,,,,,,,,,
+li-4288594213,linkedin,https://www.linkedin.com/jobs/view/4288594213,,"Software Engineer, AI Integrations",Asana,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/asana,,,,,,,,,,,,
+li-4301200425,linkedin,https://www.linkedin.com/jobs/view/4301200425,,"Frontend Engineer (React, Typescript)",VideoGen,"San Francisco, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/videogen,,,,,,,,,,,,
+li-4301567926,linkedin,https://www.linkedin.com/jobs/view/4301567926,,Software Engineer,ServiceNow,"Santa Clara, CA",16-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/servicenow,,,,,,,,,,,,
+li-4300975336,linkedin,https://www.linkedin.com/jobs/view/4300975336,,"Software Engineer, New Grad",Eventual,"San Francisco, CA",15-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/eventualai,,,,,,,,,,,,
+li-4299263515,linkedin,https://www.linkedin.com/jobs/view/4299263515,,Software Engineer,PayPal,"San Jose, CA",15-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/paypal,,,,,,,,,,,,
+li-4300932741,linkedin,https://www.linkedin.com/jobs/view/4300932741,,"Software Engineer, Crypto",SoFi,"San Francisco, CA",15-09-2025,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/sofi,,,,,,,,,,,,
+li-4290341003,linkedin,https://www.linkedin.com/jobs/view/4290341003,,(New Grad) Software Engineering,Samsara,"San Francisco, CA",,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/samsara,,,,,,,,,,,,
+li-4301988937,linkedin,https://www.linkedin.com/jobs/view/4301988937,,Software Engineer,Quantcast,"San Francisco, CA",,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/quantcast,,,,,,,,,,,,
+li-4300368562,linkedin,https://www.linkedin.com/jobs/view/4300368562,,Software Engineer Intern,Electronic Arts (EA),"Redwood City, CA",,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/electronic-arts,,,,,,,,,,,,
+li-4280475218,linkedin,https://www.linkedin.com/jobs/view/4280475218,,"Software Engineer, X Chat",xAI,"Palo Alto, CA",,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/xai,,,,,,,,,,,,
+li-4301960362,linkedin,https://www.linkedin.com/jobs/view/4301960362,,Software Engineer - Bachelors,Palo Alto Networks,"Santa Clara, CA",,,,,,,,FALSE,,,,,,,https://www.linkedin.com/company/palo-alto-networks,,,,,,,,,,,,
+li-4302016863,linkedin,https://www.linkedin.com/jobs/view/4302016863,,"Backend Engineer(Multiple Roles, Remote & On-Site)",MLabs,"San Francisco, CA",,,,,,,,TRUE,,,,,,,https://uk.linkedin.com/company/mlabsconsulting,,,,,,,,,,,,
