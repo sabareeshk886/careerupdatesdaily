@@ -33,6 +33,19 @@ function App() {
     loadJobs();
   }, []);
 
+  // Update URL when selectedJob changes
+  useEffect(() => {
+    if (selectedJob) {
+      const newUrl = new URL(window.location);
+      newUrl.searchParams.set('jobUrl', selectedJob.applyUrl);
+      window.history.pushState({}, '', newUrl);
+    } else {
+      const newUrl = new URL(window.location);
+      newUrl.searchParams.delete('jobUrl');
+      window.history.pushState({}, '', newUrl);
+    }
+  }, [selectedJob]);
+
   // Extract unique categories and group them
   const categories = useMemo(() => {
     const uniqueCategories = new Set(jobs.map(job => job.category).filter(Boolean));
