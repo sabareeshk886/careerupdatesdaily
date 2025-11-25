@@ -57,7 +57,7 @@ const JobCard = ({ job, onSelect }) => {
                     <button
                         onClick={(e) => {
                             e.stopPropagation();
-                            const deepLink = `https://sabareeshk886.github.io/careerupdatesdaily/?jobUrl=${encodeURIComponent(job.applyUrl)}`;
+                            const deepLink = `https://sabareeshk886.github.io/careerupdatesdaily/?jobId=${encodeURIComponent(job.id)}`;
                             const text = `Check out this job:\n*${job.title}* at *${job.company}*\nLocation: ${job.location}\nSalary: ${job.salary || 'Not specified'}\n\nApply here: ${deepLink}`;
                             const url = `https://wa.me/?text=${encodeURIComponent(text)}`;
                             window.open(url, '_blank');

@@ -21,9 +21,9 @@ function App() {
 
       // Check for deep link
       const params = new URLSearchParams(window.location.search);
-      const jobUrl = params.get('jobUrl');
-      if (jobUrl) {
-        const jobToOpen = fetchedJobs.find(job => job.applyUrl === jobUrl);
+      const jobId = params.get('jobId');
+      if (jobId) {
+        const jobToOpen = fetchedJobs.find(job => job.id === jobId);
         if (jobToOpen) {
           setSelectedJob(jobToOpen);
         }
@@ -37,11 +37,11 @@ function App() {
   useEffect(() => {
     if (selectedJob) {
       const newUrl = new URL(window.location);
-      newUrl.searchParams.set('jobUrl', selectedJob.applyUrl);
+      newUrl.searchParams.set('jobId', selectedJob.id);
       window.history.pushState({}, '', newUrl);
     } else {
       const newUrl = new URL(window.location);
-      newUrl.searchParams.delete('jobUrl');
+      newUrl.searchParams.delete('jobId');
       window.history.pushState({}, '', newUrl);
     }
   }, [selectedJob]);
