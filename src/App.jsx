@@ -18,6 +18,16 @@ function App() {
       const fetchedJobs = await fetchJobs();
       setJobs(fetchedJobs);
       setLoading(false);
+
+      // Check for deep link
+      const params = new URLSearchParams(window.location.search);
+      const jobUrl = params.get('jobUrl');
+      if (jobUrl) {
+        const jobToOpen = fetchedJobs.find(job => job.applyUrl === jobUrl);
+        if (jobToOpen) {
+          setSelectedJob(jobToOpen);
+        }
+      }
     };
 
     loadJobs();
