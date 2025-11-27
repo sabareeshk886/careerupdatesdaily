@@ -48,7 +48,7 @@ const JobCard = ({ job, onSelect, isActive }) => {
             <div style={{ marginTop: 'auto', paddingTop: '1rem', borderTop: '1px solid var(--border-color)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <div style={{ display: 'flex', flexDirection: 'column' }}>
                     <span style={{ fontWeight: '600', color: 'var(--text-primary)', fontSize: '1rem' }}>{job.salary || 'Salary not specified'}</span>
-                    <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>via {job.source}</span>
+                    <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}></span>
                 </div>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                     <button
