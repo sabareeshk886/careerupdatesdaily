@@ -1,32 +1,7 @@
 import React from 'react';
 
-const getSalary = (job) => {
-    if (job.salary && job.salary !== 'Not specified' && job.salary !== 'null') {
-        return job.salary;
-    }
-
-    // Clean description text to remove artifacts like backslashes
-    const cleanDescription = job.description ? job.description.replace(/\\/g, '') : '';
-
-    // Try to extract from description
-    const salaryPatterns = [
-        /Pay:\s*(₹?[\d,.]+\s*-\s*₹?[\d,.]+)/i,
-        /Salary:\s*(₹?[\d,.]+\s*-\s*₹?[\d,.]+)/i,
-        /₹[\d,.]+\s*-\s*₹[\d,.]+/
-    ];
-
-    for (const pattern of salaryPatterns) {
-        const match = cleanDescription.match(pattern);
-        if (match) {
-            return match[1] || match[0];
-        }
-    }
-
-    return 'Not specified';
-};
-
 const JobDetailsContent = ({ job, onClose }) => {
-    const displaySalary = getSalary(job);
+    const displaySalary = job.salary;
 
     return (
         <>
