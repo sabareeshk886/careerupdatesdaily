@@ -10,6 +10,7 @@ function Jobs() {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedJob, setSelectedJob] = useState(null);
     const [selectedCategory, setSelectedCategory] = useState('All');
+    const [showAllCategories, setShowAllCategories] = useState(false);
 
     useEffect(() => {
         const loadJobs = async () => {
@@ -26,6 +27,9 @@ function Jobs() {
                 if (jobToOpen) {
                     setSelectedJob(jobToOpen);
                 }
+            } else if (fetchedJobs.length > 0) {
+                // Auto-select first job if no deep link
+                setSelectedJob(fetchedJobs[0]);
             }
         };
 
@@ -44,6 +48,11 @@ function Jobs() {
             window.history.pushState({}, '', newUrl);
         }
     }, [selectedJob]);
+
+    const handleJobSelect = (job) => {
+        setSelectedJob(job);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
 
     // Extract unique categories and group them
     const categories = useMemo(() => {
@@ -89,8 +98,26 @@ function Jobs() {
                 <div>
                     {/* Category Filters */}
                     <div style={{ marginBottom: '2.5rem' }}>
-                        <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
-                            {categories.slice(0, 20).map(category => (
+                        <div style={{
+                            display: 'flex',
+                            gap: '0.75rem',
+                            flexWrap: showAllCategories ? 'wrap' : 'nowrap',
+                            overflowX: showAllCategories ? 'visible' : 'auto',
+                            paddingBottom: '0.5rem',
+                            scrollbarWidth: 'none', /* Firefox */
+                            msOverflowStyle: 'none',  /* IE 10+ */
+                            alignItems: 'center'
+                        }}>
+                            {/* Hide scrollbar for Chrome/Safari/Opera */
+                                <style>
+                                    {`
+                                    div::-webkit-scrollbar { 
+                                        display: none; 
+                                    }
+                                `}
+                                </style>}
+
+                            {categories.map(category => (
                                 <button
                                     key={category}
                                     onClick={() => setSelectedCategory(category)}
@@ -104,7 +131,8 @@ function Jobs() {
                                         fontSize: '0.9rem',
                                         fontWeight: '500',
                                         transition: 'all 0.2s',
-                                        whiteSpace: 'nowrap'
+                                        whiteSpace: 'nowrap',
+                                        flexShrink: 0
                                     }}
                                     onMouseEnter={(e) => {
                                         if (selectedCategory !== category) {
@@ -120,11 +148,33 @@ function Jobs() {
                                     {category}
                                 </button>
                             ))}
-                            {categories.length > 20 && (
-                                <span style={{ color: 'var(--text-secondary)', alignSelf: 'center', fontSize: '0.9rem', fontWeight: '500' }}>
-                                    +{categories.length - 20} more
-                                </span>
-                            )}
+
+                            <button
+                                onClick={() => setShowAllCategories(!showAllCategories)}
+                                style={{
+                                    padding: '0.6rem 0.8rem',
+                                    borderRadius: '50%',
+                                    border: '1px solid var(--border-color)',
+                                    background: 'white',
+                                    color: 'var(--text-primary)',
+                                    cursor: 'pointer',
+                                    fontSize: '0.9rem',
+                                    fontWeight: '500',
+                                    transition: 'all 0.2s',
+                                    whiteSpace: 'nowrap',
+                                    flexShrink: 0,
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    width: '40px',
+                                    height: '40px'
+                                }}
+                                title={showAllCategories ? "Show less" : "Show all categories"}
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style={{ transform: showAllCategories ? 'rotate(180deg)' : 'rotate(0deg)', transition: 'transform 0.2s' }}>
+                                    <path fillRule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+                                </svg>
+                            </button>
                         </div>
                     </div>
 
@@ -153,7 +203,7 @@ function Jobs() {
                                     <JobCard
                                         key={job.id}
                                         job={job}
-                                        onSelect={setSelectedJob}
+                                        onSelect={handleJobSelect}
                                         isActive={selectedJob?.id === job.id}
                                     />
                                 );
