@@ -1,13 +1,13 @@
 const fetchScrapedJobs = async () => {
     try {
-        const response = await fetch('/careerupdatesdaily/scraped_jobs.json');
+        const response = await fetch('scraped_jobs.json');
         if (!response.ok) {
             return [];
         }
         const data = await response.json();
 
         return data.map((job, index) => ({
-            id: `scraped-${index}`,
+            id: job.id || `scraped-${index}`,
             title: job.title,
             company: job.company,
             location: job.location,
