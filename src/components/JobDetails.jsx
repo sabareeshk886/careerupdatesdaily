@@ -71,12 +71,16 @@ const JobDetailsContent = ({ job, onClose }) => {
                         fontSize: '1rem',
                         wordBreak: 'break-word'
                     }}>
-                        {job.description.split(/(\*\*.*?\*\*)/).map((part, index) => {
-                            if (part.startsWith('**') && part.endsWith('**')) {
-                                return <strong key={index} style={{ color: 'var(--text-primary)', fontWeight: '600' }}>{part.slice(2, -2)}</strong>;
-                            }
-                            return part;
-                        })}
+                        {job.description
+                            .replace(/\\-/g, '-')
+                            .replace(/\/\//g, '')
+                            .split(/(\*\*.*?\*\*)/)
+                            .map((part, index) => {
+                                if (part.startsWith('**') && part.endsWith('**')) {
+                                    return <strong key={index} style={{ color: 'var(--text-primary)', fontWeight: '600' }}>{part.slice(2, -2)}</strong>;
+                                }
+                                return part;
+                            })}
                     </div>
                 </section>
 
