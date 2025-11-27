@@ -51,7 +51,6 @@ function Jobs() {
 
     const handleJobSelect = (job) => {
         setSelectedJob(job);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
     // Extract unique categories and group them
