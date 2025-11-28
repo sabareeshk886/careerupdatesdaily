@@ -5,6 +5,9 @@ on:
     # Runs at 02:00 UTC everyday (7:30 AM IST)
     - cron: '0 2 * * *'
   workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
