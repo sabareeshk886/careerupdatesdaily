@@ -114,7 +114,7 @@ class Indeed(Scraper):
             self.api_url,
             headers=api_headers_temp,
             json=payload,
-            timeout=10,
+            timeout=30,
             verify=False,
         )
         if not response.ok:
