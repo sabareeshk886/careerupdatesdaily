@@ -110,13 +110,14 @@ function Jobs() {
 
             <main className="container">
                 {/* Category Filters - Moved outside grid */}
-                <div style={{ marginBottom: '2rem', position: 'relative', display: 'flex', alignItems: 'center' }}>
+                <div style={{ marginBottom: '2rem', position: 'relative', display: 'flex', alignItems: showAllCategories ? 'flex-start' : 'center' }}>
                     <div
                         ref={scrollContainerRef}
                         style={{
                             display: 'flex',
                             gap: '0.75rem',
-                            overflowX: 'auto',
+                            overflowX: showAllCategories ? 'visible' : 'auto',
+                            flexWrap: showAllCategories ? 'wrap' : 'nowrap',
                             paddingBottom: '0.5rem',
                             scrollbarWidth: 'none',
                             msOverflowStyle: 'none',
@@ -167,31 +168,59 @@ function Jobs() {
                         ))}
                     </div>
 
-                    {/* Right Arrow for scrolling */}
-                    <button
-                        onClick={() => scrollCategories('right')}
-                        style={{
-                            marginLeft: '0.5rem',
-                            padding: '0.5rem',
-                            borderRadius: '50%',
-                            border: '1px solid var(--border-color)',
-                            background: 'white',
-                            cursor: 'pointer',
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            boxShadow: '0 2px 4px rgba(0,0,0,0.05)',
-                            zIndex: 2,
-                            minWidth: '40px',
-                            height: '40px'
-                        }}
-                        aria-label="Scroll right"
-                        title="Scroll right"
-                    >
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                            <polyline points="9 18 15 12 9 6"></polyline>
-                        </svg>
-                    </button>
+                    {/* Left and Right Arrows for scrolling */}
+                    {!showAllCategories && (
+                        <>
+                            <button
+                                onClick={() => scrollCategories('left')}
+                                style={{
+                                    marginLeft: '0.5rem',
+                                    padding: '0.5rem',
+                                    borderRadius: '50%',
+                                    border: '1px solid var(--border-color)',
+                                    background: 'white',
+                                    cursor: 'pointer',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    boxShadow: '0 2px 4px rgba(0,0,0,0.05)',
+                                    zIndex: 2,
+                                    minWidth: '40px',
+                                    height: '40px'
+                                }}
+                                aria-label="Scroll left"
+                                title="Scroll left"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                                    <polyline points="15 18 9 12 15 6"></polyline>
+                                </svg>
+                            </button>
+                            <button
+                                onClick={() => scrollCategories('right')}
+                                style={{
+                                    marginLeft: '0.5rem',
+                                    padding: '0.5rem',
+                                    borderRadius: '50%',
+                                    border: '1px solid var(--border-color)',
+                                    background: 'white',
+                                    cursor: 'pointer',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    boxShadow: '0 2px 4px rgba(0,0,0,0.05)',
+                                    zIndex: 2,
+                                    minWidth: '40px',
+                                    height: '40px'
+                                }}
+                                aria-label="Scroll right"
+                                title="Scroll right"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                                    <polyline points="9 18 15 12 9 6"></polyline>
+                                </svg>
+                            </button>
+                        </>
+                    )}
 
                     {/* Show All Toggle (Optional, kept for compatibility if user wants it, but maybe redundant with scroll) */}
                     <button
