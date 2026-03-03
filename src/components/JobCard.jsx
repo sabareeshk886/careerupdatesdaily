@@ -93,4 +93,4 @@ const JobCard = ({ job, onSelect, isActive }) => {
     );
 };
 
-export default JobCard;
+export default React.memo(JobCard);

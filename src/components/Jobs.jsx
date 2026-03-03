@@ -11,6 +11,7 @@ function Jobs() {
     const [selectedJob, setSelectedJob] = useState(null);
     const [selectedCategory, setSelectedCategory] = useState('All');
     const [showAllCategories, setShowAllCategories] = useState(false);
+    const [visibleCount, setVisibleCount] = useState(50);
 
     useEffect(() => {
         const loadJobs = async () => {
@@ -49,9 +50,9 @@ function Jobs() {
         }
     }, [selectedJob]);
 
-    const handleJobSelect = (job) => {
+    const handleJobSelect = React.useCallback((job) => {
         setSelectedJob(job);
-    };
+    }, []);
 
     // Extract unique categories and group them
     const categories = useMemo(() => {
@@ -73,6 +74,15 @@ function Jobs() {
         });
         return result;
     }, [jobs, searchTerm, selectedCategory]);
+
+    // Reset visible count when search or category changes
+    useEffect(() => {
+        setVisibleCount(50);
+    }, [searchTerm, selectedCategory]);
+
+    const handleLoadMore = () => {
+        setVisibleCount(prev => prev + 50);
+    };
 
     const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
 
@@ -241,7 +251,7 @@ function Jobs() {
                                 flexDirection: 'column',
                                 gap: '1rem'
                             }}>
-                                {filteredJobs.map((job) => {
+                                {filteredJobs.slice(0, visibleCount).map((job) => {
                                     if (!job) return null;
                                     return (
                                         <JobCard
@@ -252,6 +262,32 @@ function Jobs() {
                                         />
                                     );
                                 })}
+
+                                {visibleCount < filteredJobs.length && (
+                                    <button
+                                        onClick={handleLoadMore}
+                                        style={{
+                                            marginTop: '1rem',
+                                            padding: '1rem',
+                                            backgroundColor: 'white',
+                                            border: '1px solid var(--border-color)',
+                                            borderRadius: 'var(--radius-md)',
+                                            color: 'var(--text-primary)',
+                                            fontWeight: '600',
+                                            cursor: 'pointer',
+                                            transition: 'all 0.2s',
+                                            textAlign: 'center'
+                                        }}
+                                        onMouseEnter={(e) => {
+                                            e.currentTarget.style.borderColor = 'black';
+                                        }}
+                                        onMouseLeave={(e) => {
+                                            e.currentTarget.style.borderColor = 'var(--border-color)';
+                                        }}
+                                    >
+                                        Load More Jobs ({filteredJobs.length - visibleCount} remaining)
+                                    </button>
+                                )}
                             </div>
                         ) : (
                             <div style={{ textAlign: 'center', padding: '4rem', color: 'var(--text-secondary)' }}>
