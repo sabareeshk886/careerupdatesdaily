@@ -102,11 +102,15 @@ final_jobs_list = list(job_map.values())
 # We handle None values by treating them as very old dates
 final_jobs_list.sort(key=lambda x: x.get('date_posted') or "", reverse=True)
 
-print(f"Total unique jobs after merging: {len(final_jobs_list)}")
+# Keep only the newest 1000 jobs to avoid exceeding file size limits
+MAX_JOBS = 1000
+final_jobs_list = final_jobs_list[:MAX_JOBS]
+
+print(f"Total unique jobs after merging and limiting to {MAX_JOBS}: {len(final_jobs_list)}")
 
 # 5. Save to JSON
 with open(output_file, 'w') as f:
-    json.dump(final_jobs_list, f, indent=2)
+    json.dump(final_jobs_list, f, separators=(',', ':'))
 
 print(f"Jobs saved to {output_file} for website usage.")
 
